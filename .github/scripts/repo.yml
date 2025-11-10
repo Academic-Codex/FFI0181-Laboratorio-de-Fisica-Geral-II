@@ -1,5 +1,5 @@
-TITLE_1: SQM0405
-TITLE_2: Quimica Geral e Experimental
+TITLE_1: FFI0181
+TITLE_2: Laboratório de Física II
 SUBTITLE_1: Disciplina de graduação
 SUBTITLE_2: Material de aula, notebooks e referências.
 
@@ -12,8 +12,8 @@ REFERENCIAS: |
     <li>Artigo BB …</li>
   </ul>
 
-GITHUB_LINK: https://github.com/Academic-Codex/SQM405-Quimica-Geral-Experimental
+GITHUB_LINK: https://github.com/Academic-Codex/FFI0181-Laboratorio-De-Fisica-II
 
 ASSETS_BASE: https://academic-codex.github.io
 ASSETS_SUBDIR: img/portfolio
-HERO_FILE: laboratorio-quimica.png
+HERO_FILE: laboratorio-fisica.png
