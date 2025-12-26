@@ -1,0 +1,12 @@
+REPO_TAGLINE: Experimental methods • uncertainty • lab reports
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: board
+SITE_URL: https://academic-codex.github.io/FFI0181-Laboratorio-de-Fisica-II
+
+BG_1: "#0B1020"
+BG_2: "#1F2937"
+TEXT_MAIN: "#F8FAFC"
+TEXT_MUTED: "#C7D2FE"
+ACCENT: "#60A5FA"
+CARD_RADIUS: "18"
