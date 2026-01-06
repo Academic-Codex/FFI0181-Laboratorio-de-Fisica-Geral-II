@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/FFI0181-Laboratorio-de-Fisica-Geral-II">
-    <img src=".github/readme/hero.svg?v=2026-01-06T14:33:49.289697Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-06T15:37:52.861517Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
